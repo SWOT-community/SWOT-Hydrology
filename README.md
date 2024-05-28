@@ -21,6 +21,8 @@ A system for generating on demand raster products from SWOT L2 raster data with 
 
 [Prior Lake Database (PLD)](https://hydroweb.next.theia-land.fr/) - Add in the PLD layer into Hydroweb.next to see the lakes SWOT products are based upon, great for discovering lake IDs!
 
+[SWOT Data User Handbook](https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/swot_mission_docs/D-109532_SWOT_UserHandbook_20240502.pdf?_ga=2.124259722.1042075570.1716930479-1354658737.1715875596)
+
 [Product Description Documents](https://podaac.jpl.nasa.gov/SWOT?tab=datasets-information) - find more detailed information in this table!
 
 [Latest Release Notes - Version C KaRIn Science Data Products](https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/swot_mission_docs/releases/SWOT_VersionC_KaRIn_Products_Release_Note.pdf) - See section 6 for current issues and features of the datasets!
