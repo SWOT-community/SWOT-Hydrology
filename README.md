@@ -5,7 +5,7 @@ Hydrology-relevant tutorials and resources for the Surface Water and Ocean Topog
 
 ### [hydroweb.next](https://hydroweb.next.theia-land.fr/)
 
-Search for, visualize, and download SWOT Hydrology products via interactive GUI developed by CNES, Hydroweb.next
+Search for, visualize, and download SWOT Hydrology products via interactive GUI developed by CNES and Theia, hydroweb.next
 
 ### [Hydrocron](https://podaac.github.io/hydrocron/intro.html) 
 
@@ -17,9 +17,9 @@ A system for generating on demand raster products from SWOT L2 raster data with 
 
 ### **A Priori Databases & Product Descriptions**
 
-[SWOT River Database (SWORD)](https://www.swordexplorer.com/) - the database for rivers SWOT products are based upon, great for discovering river reach IDs!
+[SWOT River Database (SWORD)](https://www.swordexplorer.com/) - the database for rivers SWOT products are based upon, great for discovering river reach IDs!. The dataset is also available at https://hydroweb.next.theia-land.fr/?pid=SWOT_PRIOR_RIVER_DATABASE 
 
-[Prior Lake Database (PLD)](https://hydroweb.next.theia-land.fr/) - Add in the PLD layer into Hydroweb.next to see the lakes SWOT products are based upon, great for discovering lake IDs!
+[Prior Lake Database (PLD)](https://hydroweb.next.theia-land.fr/?pid=SWOT_PRIOR_LAKE_DATABASE) - Add in the PLD layer into Hydroweb.next to see the lakes SWOT products are based upon, great for discovering lake IDs!
 
 [SWOT Data User Handbook](https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/swot_mission_docs/D-109532_SWOT_UserHandbook_20240502.pdf?_ga=2.124259722.1042075570.1716930479-1354658737.1715875596)
 
