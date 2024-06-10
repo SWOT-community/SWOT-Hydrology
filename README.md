@@ -3,7 +3,7 @@ Hydrology-relevant tutorials and resources for the Surface Water and Ocean Topog
 
 ## Resources
 
-### [Hydroweb.next](https://hydroweb.next.theia-land.fr/)
+### [hydroweb.next](https://hydroweb.next.theia-land.fr/)
 
 Search for, visualize, and download SWOT Hydrology products via interactive GUI developed by CNES, Hydroweb.next
 
