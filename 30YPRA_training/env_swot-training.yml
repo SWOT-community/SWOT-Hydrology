@@ -74,7 +74,6 @@ dependencies:
   - cairo=1.18.0=hbb29018_2
   - cartopy=0.23.0=py310hf9f9076_1
   - cartopy_offlinedata=0.23.0=pyhd8ed1ab_0
-  - casys=0.12=pypy_0
   - cdsapi=0.7.0=pyhd8ed1ab_0
   - certifi=2024.7.4=pyhd8ed1ab_0
   - cf-units=3.2.0=py310h261611a_5
@@ -99,7 +98,6 @@ dependencies:
   - contourpy=1.2.1=py310hd41b1e2_0
   - coverage=7.5.4=py310hc51659f_0
   - crashtest=0.4.1=pyhd8ed1ab_0
-  - cross_spectral=2024.1.0=py310h76be34b_3
   - cryptography=42.0.8=py310hb1bd9d3_0
   - cycler=0.12.1=pyhd8ed1ab_0
   - cytoolz=0.12.3=py310h2372a71_0
@@ -194,9 +192,6 @@ dependencies:
   - holoviews=1.19.1=pyhd8ed1ab_0
   - hpack=4.0.0=pyh9f0ad1d_0
   - hvplot=0.10.0=pyhd8ed1ab_0
-  - hydro-data-downloader=1.8.0=py_0
-  - hydro-db-api=1.8.0=py_0
-  - hydro-db-connector=1.8.0=py_3
   - hyperframe=6.0.1=pyhd8ed1ab_0
   - icu=73.2=h59595ed_0
   - idna=3.7=pyhd8ed1ab_0
